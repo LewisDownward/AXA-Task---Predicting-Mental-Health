@@ -9,7 +9,7 @@ The aim is to build models to identify individuals at risk of mental health issu
 - [Requirements](#requirements)
 - [Usage](#usage)
 
-##Requirements
+## Requirements
 
 numpy==1.26.4
 pandas==2.2.2
