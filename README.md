@@ -11,6 +11,15 @@ The aim is to build models to identify individuals at risk of mental health issu
 
 ##Requirements
 
+numpy==1.26.4
+pandas==2.2.2
+kagglehub==0.3.5
+matplotlib==3.9.2
+seaborn==0.13.2
+scipy==1.13.1
+scikit-learn==1.5.1
+imbalanced-learn==0.12.3
+tensorflow==2.18.0
 
 ## Usage
 
