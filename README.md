@@ -1,6 +1,6 @@
 # AXA-Task---Predicting-Mental-Health
 
-A brief description of your project, what it does, and why it is useful.
+Project investigating the Kaggle Depression dataset to build machine learning models to predict the target variable 'History of Mental Health'.
 
 ## Table of Contents
 
